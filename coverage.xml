@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.7.1221.0">
+  <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+  <Modules>
+    <Module skippedDueTo="Filter" hash="D4-D5-BD-A8-86-4B-2A-73-BB-20-54-0F-30-11-9D-44-D8-30-5C-91">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</ModulePath>
+      <ModuleTime>2021-06-03T18:22:22.6518558Z</ModuleTime>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="D3-BC-93-B1-65-8C-B6-A6-06-DE-D1-F6-2E-4F-A1-4F-E0-0A-8A-B0">
+      <ModulePath>E:\KPI\Semestr_5\.NET\LinkedList\TestUnit\bin\Debug\net5.0\testhost.dll</ModulePath>
+      <ModuleTime>2020-08-19T13:36:10Z</ModuleTime>
+      <ModuleName>testhost</ModuleName>
+      <Classes />
+    </Module>
+  </Modules>
+</CoverageSession>

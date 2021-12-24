@@ -1,0 +1,12 @@
+E:\KPI\Semestr_5\.NET\LinkedList\LinkedList\bin\Debug\net5.0\LinkedList.deps.json
+E:\KPI\Semestr_5\.NET\LinkedList\LinkedList\bin\Debug\net5.0\LinkedList.dll
+E:\KPI\Semestr_5\.NET\LinkedList\LinkedList\bin\Debug\net5.0\ref\LinkedList.dll
+E:\KPI\Semestr_5\.NET\LinkedList\LinkedList\bin\Debug\net5.0\LinkedList.pdb
+E:\KPI\Semestr_5\.NET\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.csprojAssemblyReference.cache
+E:\KPI\Semestr_5\.NET\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\KPI\Semestr_5\.NET\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.AssemblyInfoInputs.cache
+E:\KPI\Semestr_5\.NET\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.AssemblyInfo.cs
+E:\KPI\Semestr_5\.NET\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.csproj.CoreCompileInputs.cache
+E:\KPI\Semestr_5\.NET\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.dll
+E:\KPI\Semestr_5\.NET\LinkedList\LinkedList\obj\Debug\net5.0\ref\LinkedList.dll
+E:\KPI\Semestr_5\.NET\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.pdb
